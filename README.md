@@ -1,5 +1,6 @@
 # Oneshot For 3DS
 A Port of the 2014 Ver. of Oneshot for the 3DS. A HUGE thanks to Gridd for helping me fix all the bugs. without him, this project would never have existed &lt;3
+keep in mind i had to change alot of things to get it to work so its not a 100% like the actual 2014 ver. of oneshot.
 
 Here's how to get Oneshot to Work on your 3DS:
 First of all you need to have a Modded 3DS or else it wont work.
