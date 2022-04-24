@@ -13,6 +13,8 @@ the oneshot folder inside.
 oneshot on your 3DS.
 6. Have fun!
 
+Here are some pictures:
+
 ![20220423_173016](https://user-images.githubusercontent.com/52892229/164970687-8fb62d7b-2c27-4052-8b53-2405e398f81b.jpg)
 ![20220423_173023](https://user-images.githubusercontent.com/52892229/164970690-e1432938-1ce9-4be4-b5c8-d800828ad95d.jpg)
 ![20220424_114321](https://user-images.githubusercontent.com/52892229/164970692-78a928f3-4b2e-4ef2-a2e4-23e87d2e80fd.jpg)
