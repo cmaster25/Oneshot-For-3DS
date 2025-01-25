@@ -8,8 +8,8 @@ First of all you need to have a Modded 3DS or else it wont work.
 tab on "other" at the 0.8 "Paralyze" version and download "Nintendo 3DS (CIA)"
 2. download the Oneshot folder: Now on github with release 1.1.0!
 3. install the EasyRPG.Cia file to your 3DS.
-4. make a folder called easyRPG-player inside the SD/3ds folder and place
-the oneshot folder inside.
+4. make a folder called easyRPG-player inside the SD\3ds folder and place
+the oneshot folder inside. it should look like this SD:\3ds\easyRPG-player\Oneshot 3DS
 5. open up EasyRPG and if you see oneshot, congrats! you can now play
 oneshot on your 3DS.
 6. Have fun!
