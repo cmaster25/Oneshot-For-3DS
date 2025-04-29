@@ -2,8 +2,11 @@
 A Port of the Freeware (2014) Ver. of Oneshot for the 3DS.
 keep in mind i had to change alot of things to get it to work so its not a 100% like the actual 2014 ver. of oneshot.
 
-### **⚠️A Video Guide on how to Import Oneshot for 3DS will be coming out soon!⚠️**
+The Video Based Guide on how to Install it:
 
+https://github.com/user-attachments/assets/22af243b-5ca1-43f3-8783-8371f78efce6
+
+The Text Based Guide on how to Install it:
 Here's how to get Oneshot to Work on your 3DS:
 First of all you need to have a Modded 3DS or else it wont work.
 1. download EasyRPG 3DS by going to https://easyrpg.org/player/downloads/#release-homebrew and download "Nintendo 3DS (3dsx)"
