@@ -7,7 +7,7 @@ keep in mind i had to change alot of things to get it to work so its not a 100% 
 Here's how to get Oneshot to Work on your 3DS:
 First of all you need to have a Modded 3DS or else it wont work.
 1. download EasyRPG 3DS by going to https://easyrpg.org/player/downloads/#release-homebrew and download "Nintendo 3DS (3dsx)"
-2. download the Oneshot folder: Now on github with release 1.1.0!
+2. download the Oneshot for 3DS and unzip it alongside EasyRPG
 3. Unzip the folder and put it inside SD/3ds.
 4. place the Oneshot 3DS folder inside the easyrpg-player folder. it should be like this "SD:\3ds\easyrpg-player\Oneshot 3DS"
 5. open up Homebrew Channel and Scroll down until you find "EasyRPG Player 0.8.1". Open it and if you see Oneshot 3DS, congrats! you can now play
