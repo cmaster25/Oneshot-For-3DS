@@ -18,5 +18,6 @@ If you make a Save File when going into one of the beds, you can load back into 
 
 Here are some pictures:
 
+![20250429_143424](https://github.com/user-attachments/assets/21ffa958-3cda-4e79-92fd-905e37d54388)
 ![20250429_143832](https://github.com/user-attachments/assets/6407ba0c-33d8-4308-a4c9-8c8301423077)
 ![20250429_143856](https://github.com/user-attachments/assets/2482b69b-3060-4abe-992e-b4f5e0295e29)
