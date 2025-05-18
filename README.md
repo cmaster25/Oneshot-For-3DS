@@ -2,7 +2,9 @@
 A Port of the Freeware (2014) Ver. of Oneshot for the 3DS.
 keep in mind i had to change alot of things to get it to work so its not a 100% like the actual 2014 ver. of oneshot. Thank to Gridd, @velamyGH and others who reported bugs or suggested things to make this possible!
 
-# If you make a Save File when going into one of the beds, you can load back into them when Reopening the game by just pressing select on the Empty Spot Between Start and Quit.
+## If you make a Save File when going into one of the beds, you can load back into them when Reopening the game by just pressing select on the Empty Spot Between Start and Quit.
+![image](https://github.com/user-attachments/assets/17ea8a90-3723-4312-9a01-6a3e31d3f665)
+
 
 Here are some pictures:
 
