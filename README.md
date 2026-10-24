@@ -1,3 +1,5 @@
+⚠️ There has been some bugs that are breaking the port in the Maize Room! I've recently been looking into solutions for this and other bugs as I've previously been very busy for a while, so please be patient! ⚠️
+
 # Oneshot For 3DS
 A Port of the Freeware (2014) Ver. of Oneshot for the 3DS.
 keep in mind i had to change alot of things to get it to work so its not a 100% like the actual 2014 ver. of oneshot. Thank to Gridd, @velamyGH and others who reported bugs or suggested things to make this possible!
